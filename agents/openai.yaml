@@ -1,0 +1,6 @@
+interface:
+  display_name: "Curious Intern"
+  short_description: "Ask MCQs before every code and design decision"
+  default_prompt: "Use $curious-intern med for this task."
+policy:
+  allow_implicit_invocation: false
